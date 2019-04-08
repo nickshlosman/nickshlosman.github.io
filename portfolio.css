@@ -1,0 +1,64 @@
+body {
+  height: 100%;
+  margin: 0;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+h1 {
+  font-family: 'Major Mono Display', monospace;
+  font-size: 4.0em;
+  letter-spacing: .2em;
+  text-align: justify;
+  padding-left: .5em;
+  color: #222438;
+}
+
+h2 {
+  font-family: 'Major Mono Display', monospace;
+  font-size: 1.50em;
+  word-spacing: .2em;
+  text-align: justify;
+  padding-left: 1.49em;
+  color: #222438;
+}
+
+h1,h2{
+  line-height: .1em;
+}
+    
+ul {
+  list-style-type: none;
+  line-height: 3.4em;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 3.4em;
+}
+
+li a {
+  background-color: #222438;
+  font-family: 'Major Mono Display', monospace;
+  color: ghostwhite;
+  padding: 15px;
+  border-style: solid;
+  border-width:2px;
+  border-color: ghostwhite;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+ li a:hover {
+  background-color: #EF8950;
+  color: #222438; 
+  transition-duration: 0.6s;
+}
+
+
+h2, nav {
+    line-height: 1.6em;
+}
